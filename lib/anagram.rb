@@ -6,4 +6,10 @@ class Anagram
     @word = word 
   end 
   
+  def match(array) 
+    array.each do |check|
+      
+    
+  end 
+  
 end 
